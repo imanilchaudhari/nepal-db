@@ -1,0 +1,22 @@
+[
+    {
+        "region":"Eastern Development Region",
+        "headquarter": "Dhankuta"
+    },
+    {
+        "region":"Central Development Region",
+        "headquarter": "Kathmandu"
+    },
+    {
+        "region":"Western Development Region",
+        "headquarter": "Pokhara"
+    },
+    {
+        "region":"Mid-Western Development Region",
+        "headquarter": "Birendranagar"
+    },
+    {
+        "region":"Far-Western Development Region",
+        "headquarter": "Dipayal"
+    }
+]
